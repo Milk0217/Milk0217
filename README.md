@@ -1,6 +1,6 @@
-This is Milk
-You can contact with me at <b>m943790568@gmail.com</b>
-Focusing on web now....
+This is Milk\n
+You can contact with me at <b>m943790568@gmail.com</b>\n
+Focusing on web now....\n
 
 <!---
 Milk0217/Milk0217 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
